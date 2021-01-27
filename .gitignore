@@ -1,5 +1,7 @@
 *.vimrc
+*.ctags
 *.tags
 *.swp
 *~
 build/
+install/
